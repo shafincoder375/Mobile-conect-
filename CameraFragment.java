@@ -1,0 +1,1 @@
+public class CameraFragment { /* Camera stream */ }

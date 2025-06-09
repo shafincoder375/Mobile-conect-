@@ -1,0 +1,1 @@
+public class ControlFragment { /* Volume, power, apps */ }
